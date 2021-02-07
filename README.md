@@ -5,7 +5,7 @@ Spam detection studied on the Twitter dataset by building 3 case studies:
 3. Case 3 - Performing PCA and selecting the features explaining 95% variance
 
 Grid search CV is employed to find the optimal hyperparameters for the following classification algorithms -
-1. Naivese Bayes
+1. Naive Bayes
 2. KNN
 3. SVM
 4. Decision Tree
